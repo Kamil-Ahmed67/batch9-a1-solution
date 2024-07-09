@@ -13,7 +13,7 @@ body{
     max-width:1320px;
     /* border: 2px solid red; */
     min-height: 600px;
-    margin:0 auto;
+    margin:0 auto; /*centralized*/
     margin-top:20px;
     background-image: url("../resources/Banner\ Image.png");
     background-position: center;
@@ -45,4 +45,13 @@ letter-spacing: 0%;
 font-weight: 900;
 line-height: 95px;
 letter-spacing: 0%;
+}
+/* 65% styles starts from here */
+.second-section-container {
+width: 802.9px;
+height: 806px;
+border:2px solid red;
+display:flex;
+margin: 0px auto;
+margin-top: 92px;
 }
